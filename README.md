@@ -1,0 +1,2 @@
+# scmd
+commandline app
